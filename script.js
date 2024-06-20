@@ -1,5 +1,5 @@
 function verificarSenha() {
-    const senhaCorreta = "Bpyeml Kcyb";
+    const senhaCorreta = "bpyeml kcyb";
     const senhaDigitada = document.getElementById('senhaInput').value;
 
     if (senhaDigitada === senhaCorreta) {
